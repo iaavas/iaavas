@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **NodeJS,C++,TypeScript**
-
 - 📫 How to reach me **baralaavas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
