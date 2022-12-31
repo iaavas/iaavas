@@ -1,9 +1,8 @@
-<h3>Hi 👋, I'm Aavash Baral</h1>
-<h3 >A passionate backend developer from Nepal</h3>
+<h3>Hi there 👋</h1>
+<h3 > I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</h3>
 
-&bull; ℹ Currently studying Computer Engineering in Tribhuvan Unviersity
+-  ℹ Currently studying Computer Engineering in Tribhuvan University
 
-- 💬 Ask me about **Node,JS,C++**
 
 - 
 # 📍 Reach Me At:
@@ -17,4 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iaavas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
