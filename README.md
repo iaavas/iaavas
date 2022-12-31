@@ -5,7 +5,7 @@
 - 🚀 Interested in exploring the fields of Artificial Intelligence, Mathematics, and Server Side problems
 
 
-# <h3>📍 Reach Me At:</h3>
+# <h3>📍 Reach me at:</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imaavash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iaavas) 
 
 ---
