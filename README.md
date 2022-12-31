@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aavash Baral</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3>Hi 👋, I'm Aavash Baral</h1>
+<h3 >A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **NextJS**
+&bull; ℹ Currently studying Computer Engineering in Tribhuvan Unviersity
 
 - 💬 Ask me about **Node,JS,C++**
 
-- 📫 How to reach me **baralaavas@gmail.com**
-## 🌐 Socials:
+- 
+# 📍 Reach Me At:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imaavash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iaavas) 
 
 # 💻 Tech Stack:
