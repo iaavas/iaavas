@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h1>
-<h3 > I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</h3>
+<p> I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</p>
 
 -  ℹ Currently studying Computer Engineering in Tribhuvan University
 
