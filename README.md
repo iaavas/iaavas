@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web3 System<br>NextJs
+Hi there! My name is Aavash Baral and I am a highly skilled back end developer with a passion for creating powerful and scalable server-side solutions. I have a strong background in languages such as Python and JS . I am an expert at designing and implementing RESTful APIs, and I have a track record of success in building robust, high-performance back ends for a variety of applications. In addition to my technical skills, I am a strong communicator and a team player, able to collaborate effectively with front end developers, designers, and other stakeholders. I am always eager to take on new challenges and push myself to the next level, and I am excited to continue growing and developing as a back end developer.
 
 
 ## 🌐 Socials:
