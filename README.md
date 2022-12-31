@@ -1,7 +1,7 @@
 <h3>Hi there 👋</h1>
 <p> I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</p>
 
--  ℹ Currently studying Computer Engineering in Tribhuvan University
+-  ℹ I am presently pursuing a degree in computer engineering at Tribhuvan University
 
 
 - 
