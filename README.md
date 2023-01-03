@@ -2,7 +2,7 @@
 <p> I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</p>
 
 - ℹ   I am presently pursuing a degree in computer engineering at Tribhuvan University
-- 🚀 Interested in exploring the fields of Artificial Intelligence, Mathematics, and Server Side problems
+- 🚀 Interested in exploring the fields of Web Development, Artificial Intelligence and Algorithms
 
 
 # <h3>📍 Reach me at:</h3>
