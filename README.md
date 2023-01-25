@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h1>
+<h2>Hi there 👋</h2>
 <p> I am a skilled back end developer with a passion for creating powerful and scalable server-side solutions.</p>
 
 - ℹ   I am presently pursuing a degree in Bachelors in Computer Engineering at Tribhuvan University
