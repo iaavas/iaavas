@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-<p> I am a back end developer with a passion for creating powerful and scalable server-side solutions.</p>
+<p> I am a full stack developer with a passion for creating end-to-end web applications that are both powerful and scalable</p>
 
 - ℹ   I am presently pursuing a degree in Bachelors in Computer Engineering at Tribhuvan University
 - 🚀 Interested in exploring the fields of Web Development, Artificial Intelligence and App Development
