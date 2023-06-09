@@ -2,7 +2,7 @@
 <p> I am a full stack developer with a passion for creating end-to-end web applications that are both powerful and scalable</p>
 
 - ℹ   I am presently pursuing a degree in Bachelors in Computer Engineering at Tribhuvan University
-- 🚀 Interested in exploring the fields of Web Development, Artificial Intelligence and App Development
+- 🚀 Interested in exploring the fields of Web Development, Artificial Intelligence and Creative Programming
 
 
 # <h3>📍 Reach me at:</h3>
