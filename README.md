@@ -13,7 +13,7 @@
 const aavash = {
   code: [Typescript, Python, C++,],
   tools: [FastAPI, Django, React, Redux, Node, Docker, AWS, PYtorch],
-  interests: ['Software Development','Agentic Systems', 'Data Analysis', 'Deep Learning']
+  interests: ['Software Development','Agentic Systems', 'Data Analysis', 'Deep Learning'],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
