@@ -1,5 +1,5 @@
 <h2> >_  Hi, I'm Aavash Baral!</h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2Njk0cG4ydnFnNWp1aTRnOG9uczA2Z2Mwc2ZrY2dtcDk1ZmJ2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUPGcgSPGqblszIGGs/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXVmbG12MjIya212cXM5NXpjMDdndWdxeHQyb2p3eW8wNGY3N3V2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dG0s6kqq7N2JcoNuiD/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://ioe.tu.edu.np/">Tribhuvan Univeristy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
