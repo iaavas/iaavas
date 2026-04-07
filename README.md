@@ -1,6 +1,6 @@
 <h2> >_  Hi, I'm Aavash Baral!</h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXVmbG12MjIya212cXM5NXpjMDdndWdxeHQyb2p3eW8wNGY3N3V2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dG0s6kqq7N2JcoNuiD/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="">Sero Finance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="">Leapfrog Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
