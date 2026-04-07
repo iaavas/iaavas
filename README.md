@@ -19,6 +19,6 @@ const aavash = {
 };
 ```
 
-<em><b> If you’ve got something to say—say it.</b> I’ll be around. :) </em>
+<em><b> If you’ve got something to you can mail me.</b> I’ll be around. :) </em>
 
 ---
